@@ -12,7 +12,7 @@ Prerequisite Fork and Make the project available locally. and clone the project 
 
 How to fork a repo coul be ound here
 
-*Fork rule*
+**Fork rule*
 
   - fork the repository into yours
   - while you are doing the fork uncheck this box[copy the {main} branch only], to enable you to copy all the branches
