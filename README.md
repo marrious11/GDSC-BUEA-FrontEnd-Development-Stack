@@ -72,3 +72,9 @@ So, before you start writing code and carrying out `git commands and pull reques
 git push origin HEAD
 ```
 ## How to send feedback to the _WhatsApp chat_
+
+> Use git related verbs like: commits, contribution, push, etc 
+
+
+
+### Further reading [on how to wite a ReandMe file](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
