@@ -1,8 +1,8 @@
-# The-Odin-Project-mate
+# The-Odin-Project-mate 🎉 👊
  The Odin Project is one of those "What I wish I had when I was learning" resources.
 This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.
 
-#  Full Stack JavaScript- PROGRAM 2022/2023 
+#  Full Stack JavaScript- PROGRAM 2022/2023 💻
 
 This is a repository where we will be sending our exercices and track our progrogress.
 
@@ -75,7 +75,11 @@ git push origin HEAD
 
 > Use git related verbs like: commits, contribution, push, etc 
 > Sample screenshot of your github contribution ![example](/home/soh/Pictures/Screenshots/Screenshot from 2023-01-05 02-48-08.png)
-- [x] > 💻 
+- [x]  💻  Yesterday (4-1-23), I was able to make 3 contributions.
+- [x]  💻 1) I worked on the Odin Project's  repo
+- [x]  💻 2) I was able to create and new branch called " my-mates", which was later merged with the master branch successfully without any merge conflicts
+- [x]  💻 3) I was able to complete 2% of  a section on the foundations course on the Odin project website.
+- [x]  💻 4) For today day 2( 5-1-23) I will continue working on the  foundation course-Introduction to Web Development
 
 
 
