@@ -74,6 +74,7 @@ git push origin HEAD
 ## How to send feedback to the _WhatsApp chat_
 
 > Use git related verbs like: commits, contribution, push, etc 
+> Sample screenshot of your github contribution ![example](/home/soh/Pictures/Screenshots/Screenshot from 2023-01-05 02-48-08.png)
 
 
 
