@@ -54,3 +54,11 @@ To submit your task, create a pull request to this repository. You can find more
  
  just continue from step 1
 
+## To Check for Updates
+
+This command will help  us stay up to date with changes made in the Odin project repository.
+So, before you start writing code and carrying out git commands and pull requests, first run the update command.
+
+```
+git push origin HEAD
+```
