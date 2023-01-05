@@ -15,7 +15,7 @@ How to fork a repo coul be ound here
 **Fork rule**
 
   - fork the repository into yours
-  - while you are doing the fork uncheck this box (copy the `main` branch only), to enable you to copy all the branches
+  - while you are doing the fork uncheck this box [copy the `main` branch only](), to enable you to copy all the branches
   - now you are on your repository from here you click on code and copy the link as shown by the arrow
   - and you enter `git clone` plus the link you just copy 
 
