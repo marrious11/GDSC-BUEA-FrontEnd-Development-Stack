@@ -74,12 +74,12 @@ git push origin HEAD
 ## How to send feedback to the _WhatsApp chat_
 
 > Use git related verbs like: commits, contribution, push, etc 
-> Sample screenshot of your github contribution ![example](/home/soh/Pictures/Screenshots/Screenshot from 2023-01-05 02-48-08.png)
+> Sample screenshot of your github contribution [^note]:
 - [x]  💻  Yesterday (4-1-23), I was able to make 3 contributions.
-- [x]  💻 1) I worked on the Odin Project's  repo
-- [x]  💻 2) I was able to create and new branch called " my-mates", which was later merged with the master branch successfully without any merge conflicts
-- [x]  💻 3) I was able to complete 2% of  a section on the foundations course on the Odin project website.
-- [x]  💻 4) For today day 2( 5-1-23) I will continue working on the  foundation course-Introduction to Web Development
+ 1) I worked on the Odin Project's  repo
+ 2) I was able to create and new branch called " my-mates", which was later merged with the master branch successfully without any merge conflicts
+ 3) I was able to complete 2% of  a section on the foundations course on the Odin project website.
+ 4) For today day 2( 5-1-23) I will continue working on the  foundation course-Introduction to Web Development
 
 
 
