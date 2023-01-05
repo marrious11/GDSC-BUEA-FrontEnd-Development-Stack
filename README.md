@@ -27,7 +27,7 @@ Step 2: Commit the change made and push
    
     git commit -am "The odin exercise  from <githubHandle or githubusername>"
 
-    git push -u origin my-mates
+    git push -u origin my-mates or git push --set-upstream origin my-mates
 ```
 
 **if you did many question at once use:**
@@ -53,4 +53,5 @@ To submit your task, create a pull request to this repository. You can find more
 ## Second submission
  
  just continue from step 1
+
 
