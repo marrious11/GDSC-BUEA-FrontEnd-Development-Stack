@@ -10,9 +10,9 @@ This is a repository where we will be sending our exercices and track our progro
 
 Prerequisite Fork and Make the project available locally. and clone the project form your repository.
 
-How to fork a repo coul be ound [here]()
+How to fork a repo coul be ound [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
-**Fork rule**
+###### Fork rule
 
   - fork the repository into yours
   - while you are doing the fork uncheck this box ==>[copy the `main` branch only](#), to enable you to copy all the branches
@@ -71,3 +71,4 @@ So, before you start writing code and carrying out `git commands and pull reques
 ```
 git push origin HEAD
 ```
+## How to send feedback to the _WhatsApp chat_
