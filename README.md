@@ -15,7 +15,7 @@ How to fork a repo coul be ound [here](https://docs.github.com/en/get-started/qu
 ###### Fork rule
 
   - fork the repository into yours
-  - while you are doing the fork uncheck this box ==>[copy the `main` branch only](#), to enable you to copy all the branches
+  - while you are doing the fork uncheck this box -->[copy the `main` branch only](#), to enable you to copy all the branches
   - now you are on your repository from here you click on code and copy the link as shown by the arrow
   - and you enter `git clone` plus the link you just copy 
 
@@ -74,7 +74,8 @@ git push origin HEAD
 ## How to send feedback to the _WhatsApp chat_
 
 > Use git related verbs like: commits, contribution, push, etc 
-> Sample screenshot of your github contribution [^note]:
+> Sample screenshot of your github contribution 
+[^note]:
 - [x]  💻  Yesterday (4-1-23), I was able to make 3 contributions.
  1) I worked on the Odin Project's  repo
  2) I was able to create and new branch called " my-mates", which was later merged with the master branch successfully without any merge conflicts
