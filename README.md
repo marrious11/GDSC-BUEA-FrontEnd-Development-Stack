@@ -15,6 +15,7 @@ How to fork a repo could be found [here](https://docs.github.com/en/get-started/
 ###### Fork rule
 
   - fork the repository into yours
+  - while you are doing the fork unchecked this box [copy the `master` branch only](./images/fork.png), to enable you to copy all the branch
   - while you are doing the fork unchecked this box [copy the `master` branch only](#), to enable you to copy all the branches
   > Sample ![Screenshot](./images/fork.png)
   - now you are on your repository from here you click on code and copy the link as shown by the arrow
