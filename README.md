@@ -10,12 +10,13 @@ This is a repository where we will be sending our exercices and track our progro
 
 Prerequisite Fork and Make the project available locally. and clone the project form your repository.
 
-How to fork a repo coul be ound [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+How to fork a repo could be found [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 ###### Fork rule
 
   - fork the repository into yours
   - while you are doing the fork unchecked this box [copy the `master` branch only](./images/fork.png), to enable you to copy all the branch
+  - while you are doing the fork unchecked this box [copy the `master` branch only](#), to enable you to copy all the branches
   > Sample ![Screenshot](./images/fork.png)
   - now you are on your repository from here you click on code and copy the link as shown by the arrow
   > Sample ![screenshot](./images/clone.png)
