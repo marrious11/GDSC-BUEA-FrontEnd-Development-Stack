@@ -20,7 +20,7 @@ How to fork a repo could be found [here](https://docs.github.com/en/get-started/
   > Sample ![Screenshot](./images/fork.png)
   - now you are on your repository from here you click on code and copy the link as shown by the arrow
   > Sample ![screenshot](./images/clone.png)
-  - and you enter `git clone` plus the link you just copy 
+  - and you enter `git clone` plus the link you just copy ...
 
 Create a branch for the task
 
