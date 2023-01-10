@@ -87,6 +87,7 @@ git push origin HEAD
  3) I was able to complete 2% of  a section on the foundations course on the Odin project website.
  4) For today day X( x-x-23) I will continue working on the  foundation course-Introduction to Web Development
 
+Sometimes reseavvvvvvvvvvvvjn
 
 
 ### Further reading [on how to wite a ReandMe file](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
