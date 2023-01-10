@@ -10,7 +10,7 @@ This is a repository where we will be sending our exercices and track our progro
 
 Prerequisite Fork and Make the project available locally. and clone the project form your repository.
 
-How to fork a repo could be found [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+How to fork a repo could be found [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
 ###### Fork rule
 
