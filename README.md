@@ -1,4 +1,3 @@
-![style](https://user-images.githubusercontent.com/66856309/212217612-929d9365-575c-4a11-8737-62d853b457d9.png)
 # The-Odin-Project-mate 🎉 👊
  The Odin Project is one of those "What I wish I had when I was learning" resources.
 This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.
