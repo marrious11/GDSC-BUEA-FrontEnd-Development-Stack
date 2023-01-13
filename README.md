@@ -86,7 +86,13 @@ git push origin HEAD
  > Sample screenshot of your Odin progress challeng ![example](./images/Odin-progress-course.png)
  3) I was able to complete 2% of  a section on the foundations course on the Odin project website.
  4) For today day X( x-x-23) I will continue working on the  foundation course-Introduction to Web Development
+ 
+## If you'd love to send beautiful code screenshots like this: :point_down:
 
+
+![style](https://user-images.githubusercontent.com/66856309/212217612-929d9365-575c-4a11-8737-62d853b457d9.png)
+
+>  then I recommend: you visit the marketplace on your VS code and download `pola code` extension :running: :running: :man_cartwheeling:.
 
 
 ### Further reading [on how to wite a ReandMe file](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
